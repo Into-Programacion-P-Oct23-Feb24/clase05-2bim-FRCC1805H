@@ -19,6 +19,8 @@ public class Ejemplo06 {
         for (int i = 0; i < valor1.length; i++) {
             System.out.printf("El valor es: %d\n", 
                     obtenerSuma(valor1[i], valor2[i]));
+            //En este for le damos los valores del arreglo 
+            //para que los sume en la funcion obtener suama
         }
         
         for (int i = 0; i < valor1.length; i++) {
@@ -26,6 +28,8 @@ public class Ejemplo06 {
             int num2 = valor2[i];
             System.out.printf("El valor es: %d\n", 
                     obtenerSuma(num1, num2));
+            //llamamos la funcion pero los valores del arreglo los guardamos 
+            //en num1 y num2 y esos los enviamos a la funcion 
         }
         
         for (int i = 0; i < valor1.length; i++) {
@@ -33,6 +37,9 @@ public class Ejemplo06 {
             int num2 = valor2[i];
             int suma = obtenerSuma(num1, num2); 
             System.out.printf("El valor es: %d\n", suma);
+            //este for le damos los valores del arreglo y obtener suma 
+            //y le damos tambien los valores y los guarda en el valor suma 
+            //con este mismo valor se los presenta 
         }
         
         

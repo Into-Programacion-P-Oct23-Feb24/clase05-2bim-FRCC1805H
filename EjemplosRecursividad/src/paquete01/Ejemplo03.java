@@ -8,7 +8,7 @@ package paquete01;
 public class Ejemplo03 {
 
     public static void main(String[] args) {
-        int numero = 4;
+        int numero = 10;
         int valorFactorial = 1;
                 
         for (int i = numero; i >= 1; i--) {
