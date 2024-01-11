@@ -40,6 +40,7 @@ public class Ejemplo06 {
             //este for le damos los valores del arreglo y obtener suma 
             //y le damos tambien los valores y los guarda en el valor suma 
             //con este mismo valor se los presenta 
+            
         }
         
         
